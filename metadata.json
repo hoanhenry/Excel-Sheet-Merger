@@ -1,0 +1,5 @@
+{
+  "name": "Excel Sheet Merger",
+  "description": "An application to merge multiple Excel files or sheets into a single sheet. It adds a new column indicating the source sheet and handles differing column structures across sheets.",
+  "requestFramePermissions": []
+}
